@@ -6,4 +6,4 @@
 <li>3
 </ul>
 
-<a href="www.youtube.com/@DeadlyHirsch">Cooler Typ</a>
+<a href="https://www.youtube.com/@DeadlyHirsch">Cooler Typ</a>
